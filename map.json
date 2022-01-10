@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sap\/ber01\/kurfs"
+                 "value":"https:\/\/play.workadventu.re\/@\/sap\/ber01\/kurfs#keithStrasseEntryPoint"
                 }],
          "type":"tilelayer",
          "visible":true,
